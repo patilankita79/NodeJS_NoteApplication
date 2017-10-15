@@ -17,8 +17,8 @@ I have used <b>Yargs</b>
   <li>.help() -> Sets up Yarg to return useful information when user runs the program. Returns all the options available</li>
 </ul>
 <br>
-<b>--save flag</b> is used to save the dependency in package.json
-<br>
+<b>--save flag</b> is used to save the dependency in package.json<br>
+
 
 ```
 $npm install lodash --save
