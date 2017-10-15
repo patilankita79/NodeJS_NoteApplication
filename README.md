@@ -16,8 +16,9 @@ I have used <b>Yargs</b>
   <li>.command() is used to configure all the four commands that are used in this application, to set up description and help functionality</li>
   <li>.help() -> Sets up Yarg to return useful information when user runs the program. Returns all the options available</li>
 </ul>
-
---save flag is used to save the dependency in package.json
+<br>
+<b>--save flag</b> is used to save the dependency in package.json
+<br>
 
 ```
 $npm install lodash --save
