@@ -37,37 +37,37 @@ $npm install yargs --save
 
 <hr>
 
-## Help Utility
+### Help Utility
 <img src="https://github.com/patilankita79/NodeJS_NoteApplication/blob/master/Screenshots/1_helpUtility.png" />
 
-## Help Uitlity for add command
+### Help Uitlity for add command
 <img src="https://github.com/patilankita79/NodeJS_NoteApplication/blob/master/Screenshots/2_helpUtilityAdd.png" />
 
-## Add a note
+### Adding a note
 <img src="https://github.com/patilankita79/NodeJS_NoteApplication/blob/master/Screenshots/3_AddNote.png" />
 
-## Now, listing all the notes
+### Now, listing all the notes
 <img src="https://github.com/patilankita79/NodeJS_NoteApplication/blob/master/Screenshots/4_addAndlistAllNotes.png" />
 
-## To avoid duplication of titles in notes
+### To avoid duplication of titles in notes
 <img src="https://github.com/patilankita79/NodeJS_NoteApplication/blob/master/Screenshots/5_DuplicateTitleCase.png" />
 
-## Help Utility to read a note 
+### Help Utility to read a note 
 <img src="https://github.com/patilankita79/NodeJS_NoteApplication/blob/master/Screenshots/6_helpUtilityRead.png" />
 
-## Rading a note for the title passed
+### Rading a note for the title passed
 <img src="https://github.com/patilankita79/NodeJS_NoteApplication/blob/master/Screenshots/7_readNote.png" />
 
-## Help Utility to remove a note
+### Help Utility to remove a note
 <img src="https://github.com/patilankita79/NodeJS_NoteApplication/blob/master/Screenshots/8_helpUtilityRemove.png" />
 
-## Listing all the notes in application
+### Listing all the notes in application
 <img src="https://github.com/patilankita79/NodeJS_NoteApplication/blob/master/Screenshots/10_listAllNotes.png" />
 
-## Remove a note for the title passed
+### Remove a note for the title passed
 <img src="https://github.com/patilankita79/NodeJS_NoteApplication/blob/master/Screenshots/9_removeNote.png" />
 
-# Now, listing all the notes to check if the notes are removed or not
+### Now, listing all the notes to check if the notes are removed or not
 <img src="https://github.com/patilankita79/NodeJS_NoteApplication/blob/master/Screenshots/11_removeAndList.png" />
 
 
