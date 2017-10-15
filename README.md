@@ -1,6 +1,6 @@
 # NodeJS_NoteApplication
 A note application developed using Node.js. This application focuses on Node.js fundamentals.<br>
-The application involves CRUD operations where, user can add, delete, read and list all the notes. The application can be accessed from command line. <br>
+The application involves CRUD operations where, user can add, delete, read and list all the notes. <br><b>The application can be accessed from command line.</b> <br>
 Following command lists all the operations that can be performed in Note application
 
 ```
