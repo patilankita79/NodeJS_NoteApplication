@@ -36,6 +36,7 @@ $npm install yargs --save
 ```
 
 <hr>
+<h1>Running the application</h1>
 
 ### Help Utility
 <img src="https://github.com/patilankita79/NodeJS_NoteApplication/blob/master/Screenshots/1_helpUtility.png" />
