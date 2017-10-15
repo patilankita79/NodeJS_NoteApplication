@@ -14,10 +14,10 @@ $ node app.js --help
 
 Third party module used in this application
 <ul>
-<li><b>lodash</b></li>
-  <li><b>Yargs</b> -> To make the parsing easier</li>
+<li><a href="https://www.npmjs.com/package/lodash">lodash</a></li>
+  <li><a href="https://www.npmjs.com/package/yargs">Yargs</a> -> To make the parsing easier</li>
 </ul>
-
+https://www.npmjs.com/package/yargs
 I have used <b>Yargs</b> 
 <ul>
   <li>for the parsing of command line arguments</li>
