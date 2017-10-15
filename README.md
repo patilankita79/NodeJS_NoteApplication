@@ -3,6 +3,7 @@ A note application developed using Node.js. This application focuses on Node.js 
 <hr>
 Third party module used in this application
 <ul>
+<li>lodash</li>
 <li><b>Yargs</b> -> To make the parsing easier</li>
 </ul>
 
