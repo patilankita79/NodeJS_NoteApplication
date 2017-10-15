@@ -13,7 +13,7 @@ $ node app.js --help
 
 ### Dependencies
 
-Third party module used in this application
+Third party NPM modules used in this application to fetch the input from the user
 <ul>
 <li><a href="https://www.npmjs.com/package/lodash">lodash</a></li>
   <li><a href="https://www.npmjs.com/package/yargs">Yargs</a> -> To make the parsing easier</li>
