@@ -18,7 +18,6 @@ Run the following command to install dependencies
 npm install
 ```
 
-<hr>
 ### Dependencies
 
 Third party NPM modules used in this application to fetch the input from the user
