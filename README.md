@@ -10,6 +10,15 @@ $ node app.js --help
 
 <hr>
 
+# Install dependencies
+
+Run the following command to install dependencies
+
+```
+npm install
+```
+
+<hr>
 ### Dependencies
 
 Third party NPM modules used in this application to fetch the input from the user
@@ -26,13 +35,13 @@ I have used <b>Yargs</b>
 </ul>
 
 <b>--save flag</b> is used to save the dependency in package.json<br>
+Run the following commands to save following dependencies
 
-
 ```
-$npm install lodash --save
+npm install lodash --save
 ```
 ```
-$npm install yargs --save
+npm install yargs --save
 ```
 
 <hr>
