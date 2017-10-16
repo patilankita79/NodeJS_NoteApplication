@@ -12,7 +12,7 @@ $ node app.js --help
 
 # Install dependencies
 
-Run the following command to install dependencies
+Run the following command to install dependencies in package.json
 
 ```
 npm install
