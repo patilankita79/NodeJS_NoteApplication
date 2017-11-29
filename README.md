@@ -1,5 +1,5 @@
 # NodeJS_NoteApplication
-A command linenote application developed using Node.js. This application focuses on Node.js fundamentals.<br>
+A command line interface (CLI) note application developed using Node.js. This application focuses on Node.js fundamentals.<br>
 The application involves CRUD operations where, user can add, delete, read and list all the notes from command line. If there are no notes generated in the application then first it creates a JSON file where the notes are appended.
 <br>Following command lists all the operations that can be performed in Note application
 
@@ -25,7 +25,7 @@ Third party NPM modules used in this application to fetch the input from the use
 <li><a href="https://www.npmjs.com/package/lodash">lodash</a></li>
   <li><a href="https://www.npmjs.com/package/yargs">Yargs</a> -> To make the parsing easier</li>
 </ul>
-https://www.npmjs.com/package/yargs
+
 I have used <b>Yargs</b> 
 <ul>
   <li>for the parsing of command line arguments</li>
